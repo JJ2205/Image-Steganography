@@ -1,4 +1,4 @@
-Image Steganography
+**Image Steganography**
 
 This project demonstrates **Image Steganography** using Python. Steganography is the practice of hiding secret data within an ordinary image. Here, I used **Least Significant Bit (LSB)** manipulation to hide and extract grayscale images.
 
